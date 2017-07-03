@@ -4,6 +4,8 @@
 
 ### [プログラミングElixir](http://shop.ohmsha.co.jp/shopdetail/000000004675/)
 
+var1.2 なのに注意(古い)
+
 - [ ] 軽く読む
 - [ ] 演習を解く
 
@@ -19,9 +21,13 @@
 - [[翻訳] Elixir - 次に来る大物Web言語 - Qiita](http://qiita.com/HirofumiTamori/items/0dfdbada30c7d8f183fd)
 - [Elixir初心者がOTPって結局なんなのか調べてみた - Qiita](http://qiita.com/kaonash/items/d3678d5635e9d1e57ccf)
     - コメントが特に良い
+- [Erlang VM - つれづれ日記](http://d.hatena.ne.jp/sakaia/touch/20150315/1426406872)
+    - 参照が豊富
+- 
 
 ## [Elixir Conf 2017 Japan](http://www.elixirconf.jp/)
 
 - [connpass](https://elixirconf.connpass.com/event/47856/)
 - [Elixir Conf Japan 2017 のツィートまとめ #elixirjp](https://togetter.com/li/1096588)
-
+- [Elixir Conf Japan 2017 参加レポート | Future Tech Blog - フューチャーアーキテクト](https://future-architect.github.io/articles/20170414/)
+- [なぜ Erlang/OTP を使い続けるのか](https://gist.github.com/voluntas/81ab2fe15372c9c67f3e0b12b3f534fa)
