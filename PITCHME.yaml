@@ -1,0 +1,4 @@
+theme-override : assets/css/pitch.css
+theme: moon
+footnote: "© 2017 IGGG Breafing."
+slide-number: true
