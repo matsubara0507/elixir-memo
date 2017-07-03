@@ -23,7 +23,6 @@ var1.2 なのに注意(古い)
     - コメントが特に良い
 - [Erlang VM - つれづれ日記](http://d.hatena.ne.jp/sakaia/touch/20150315/1426406872)
     - 参照が豊富
-- 
 
 ## [Elixir Conf 2017 Japan](http://www.elixirconf.jp/)
 
